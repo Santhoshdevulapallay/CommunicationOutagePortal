@@ -1,1 +1,0 @@
-"E:\COMSR\CommunicationOutageApp\Communication_Project_Backend\Django\venv\Scripts\python.exe" "E:\COMSR\CommunicationOutageApp\Communication_Project_Backend\Django\main\manage.py" send_auto_mails --batch_no=5 --batch_size=8
