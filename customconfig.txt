@@ -1,0 +1,17 @@
+const options = {
+  user: "***********",
+  pass: "****",
+  auth: {
+    authSource: "admin",
+  },
+};
+
+const mailConfig ={
+  'host': "mail.grid-india.in",
+  'user':`NLDC\\*********`,
+  'pass': "***************"
+}
+
+exports.mailConfig = mailConfig;
+
+exports.options = options;

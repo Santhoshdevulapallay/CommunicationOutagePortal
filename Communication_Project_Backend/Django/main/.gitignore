@@ -1,0 +1,9 @@
+# Ignore specific batch files
+auto_mail_sender_batch1.bat
+auto_mail_sender_batch2.bat
+auto_mail_sender_batch3.bat
+auto_mail_sender_batch4.bat
+
+# Ignore extradb_erros anywhere in the repo
+**/extradb_errors.py
+

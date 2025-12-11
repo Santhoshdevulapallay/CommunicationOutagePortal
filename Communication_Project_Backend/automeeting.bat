@@ -1,0 +1,1 @@
+C:\Users\Administrator\AppData\Local\Programs\Python\Python38\python.exe E:\COMSR\CommunicationOutageApp\Communication_Project_Backend\automeeting.py

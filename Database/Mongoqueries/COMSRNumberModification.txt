@@ -1,0 +1,5 @@
+mongo --port 27017  --authenticationDatabase "admin" -u "MongoAdmin" -p 123456
+
+db.linkoutages.find({"COMSRNumber":9}).count()
+
+db.linkoutages.update({COMSRNumber:8}, {$set: {COMSRNumber: 9}}, {multi: true})

@@ -1,0 +1,1 @@
+pm2 start index.js --cron-restart="30 02 * * *" --max-memory-restart 300M --name srcom_api

@@ -1,0 +1,4 @@
+mongodump --host localhost --port 27017 --db communication_outage  --authenticationDatabase admin --username MongoAdmin --password 123456 -o E:\COMSR\CommunicationOutageApp\Database\mongodb-database-tools-windows-x86_64-100.2.1\bin\dump
+
+
+mongorestore --host localhost --port 27017 --db communication_outage --authenticationDatabase admin --username MongoAdmin --password 123456 E:\COMSR\CommunicationOutageApp\Database\mongodb-database-tools-windows-x86_64-100.2.1\bin\dump\communication_outage

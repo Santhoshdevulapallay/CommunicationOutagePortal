@@ -1,0 +1,1084 @@
+,UniqueStations
+0,N'Sagar
+1,Ingur230
+2,METTUR TPS (Stg 3)
+3,Pugalur – Erode
+4,Puguluru
+5,ILFS (main)
+6,Tuticorin PS
+7,Hassan
+8,220 KV B Kothur
+9,Main Path: Warangal PG
+10,Arasur230(E1)
+11,Seethapuram
+12,SPKoil
+13,Raichur 765kV
+14,TIRUPUR 230 kV SS
+15,Pallon
+16,Mettacur (Yanam)
+17,Kalvinthapattu  (main)
+18,Madugiri 220 kV
+19,Madurai(E1)
+20,Kundara
+21,Repeater Shadnagar
+22,Madurai230
+23,Somayajulapalli 220KVSS
+24,Marapalam – Pondy SCC
+25,Thingalore 230KV SS
+26,Somyajulapalli AP
+27,Tirunelveli
+28,400KVSS Urvakonda
+29,Brahmanakotkuru 220KVSS
+30,Kayathar
+31,Alamathy 400
+32,Nagapattinam PG
+33,Davangiri
+34,K.T.P.S Vth stage
+35,Davangere/Guttur
+36,MTPS II
+37,Srisailam RBPH(AP)
+38,Asupaka
+39,Thethampakkam
+40,Trissur PGCIL
+41,Thondamanatham
+42,SATTENAPALLY
+43,Kudgi NTPC
+44,CK pally
+45,Ulundurpet 230 (Myvadi)
+46,Bhadrwati
+47,Mamidipally
+48,NRLDC
+49,Hosur (stdby)
+50,NEYVELLI
+51,Chalakkudy
+52,pondy
+53,Mysore
+54,Asupaka 400 KV
+55,Korkadu
+56,PLCC:DKY
+57,Pugalur 230
+58,Upper sileru power houe
+59,VELTORE 400 KV
+60,Sriperembdur
+61,Deviakurichi
+62,Kalpakkam (main)
+63,MADURAI PG-DCPC
+64,Pudanchandai
+65,Bidadi (main)
+66,Kalapet – Vengata Nagar – Pondy SCC
+67,SRLDC Bangalore
+68,Salem230
+69,400 KVSS Kalapaka
+70,Kakinada AP
+71,Kozhikode PG
+72,Thiruvarur230
+73,Alampur
+74,Karaiudi
+75,ARSUR
+76,Gooty PG (DCPC)
+77,Dindi
+78,Gooty PGIL
+79,Trichur PG
+80,S'perumbudur 400
+81,MADURAI 230 KV SS
+82,TS2_2
+83,Sriparembadur
+84,KOZHIKODEKSEB
+85,Madhira 132KVSS
+86,Kalapet – Villianur 230 – Pondy SCC
+87,Pugalur
+88,Brahmanakotkuru
+89,SPKOIL 230 kV SS
+90,salem(PG)N/w
+91,Neyvelli TS1
+92,Mettacur –  Kakinada – SRLDC
+93,Tiruppur 230Kv
+94,PLCC
+95,Piduguralla
+96,Sedharapet
+97,Salem 230
+98,Main Path:  Ramagundam_NTPC
+99,Pavagada (stdby)
+100,Sedam 220 kV
+101,Kalapaka
+102,Thirubuvanai
+103,Kaiga (main)
+104,KOLAR PGCIL STM 16
+105,S'perumbudur 400 kv ss
+106,Sripermbdur
+107,Arasur 400kv
+108,GOOTY 5MSP
+109,KUDAMKULAM
+110,NTPL (stdby)
+111,Arasur (stdby)
+112,Manahub Nagar
+113,Davanagere
+114,Karakudi 400
+115,StandBy: Warangal PG
+116,Kaiga NPCIL
+117,Pon
+118,Tanjore230
+119,Alamathy  400 kV SS
+120,Gooy
+121,Ambalamugal
+122,Kudgi 765kv PG
+123,Pugalur400
+124,Kadapa 400KV
+125,SALEM 400 - Bangalore
+126,Gooty 220KV
+127,Dicpally
+128,Pugulur
+129,Guruparapalli
+130,N'Sagar PG
+131,Mysore PG (main)
+132,400KVSS Madras
+133,Kodada 132KV SS
+134,Shoolagiri 400 PGCIL 400 kV SS
+135,Kadapa
+136,2_1
+137,MYSORE
+138,HB halli
+139,Gajuwaka PG
+140,sriperambudur
+141,Gummidipoondi 230 kV SS
+142,Kalikiri 220KVSS
+143,MUNIRABAD
+144,PGCIL Arasur
+145,Kolar HVAC (stdby)
+146,DAVANGERE/ GUTUR
+147,S'perumbudur
+148,Racihur 765kV
+149,Mysore PG
+150,Ghanapur
+151,Sorakudy – Thiruvarur – Neyveli
+152,Chekanurani 230
+153,-
+154,Direct
+155,Salem 400 kV SS
+156,NP Kunta 400kV
+157,through PGCIL NW
+158,Kundha-2
+159,KTPS Old
+160,Bidadi PGCIL
+161,NNTPS (main)
+162,SSLM RB
+163,132 KVSS Araku
+164,Kozikode
+165,Pulichintala
+166,CK Pally
+167,NLC TS2 Exp
+168,Bangalore
+169,CHENNAI
+170,Sundilla
+171,Thiruvalam (main)
+172,Yelahanka
+173,KPTCL SLDC
+174,Bahour
+175,Kadappa PG
+176,Salem 400 (KR Thopu)
+177,Nagarjuna Sagar
+178,Raichur 400 KV
+179,Tumkur PG
+180,SALEM PG-DCPC
+181,Kurumbapet – Vengata Nagar – Pondy SCC
+182,ARASUR 230 kV SS
+183,Sriperambdur PG
+184,"SRLDC, Bangalore"
+185,Karaikal 230
+186,Hosur PG
+187,Arasur (main)
+188,Pugalur 400KV SS
+189,Ananthapur
+190,PONDY PG-DCPC
+191,Narendra 220 kV (KPTCL)
+192,Pothencode
+193,Aswaraopeta
+194,SSLM RBPH
+195,Sriperambduru
+196,NLC TS1 Exp (main)
+197,ASUPAKA 400 KV
+198,Chottor
+199,Kalvinthapattu  (stdby)
+200,Edappan
+201,Vengata Nagar – Pondy SCC
+202,220 KV SEDAM
+203,Karur PG
+204,230 KV Trichy
+205,SMNHL
+206,C.K.Palli 220KVSS
+207,Calakkudy
+208,Ingur(E1)
+209,NTPL (main)
+210,Kaiga
+211,NP Kunta
+212,Chekanurani
+213,SSLM(LB)
+214,SSLM RBPH AP
+215,Thondamanatham – Thirubuvanai – Villianur 230 – Pondy SCC
+216,Nagapattanam PG
+217,Jaipur
+218,Nagarjuna Sagar PG
+219,Karamadai 230kv
+220,220KVSS CKPalli
+221,220KVSS Ragulapdu
+222,UDUMALPET 230
+223,220 KV TALLAPALLY
+224,Bhimidoulu AP
+225,Chennai SLDC (Protection)
+226,RTPP220KV
+227,Brahmapuram
+228,Porur
+229,Palladam
+230,Hiriyur PG
+231,Yelahanka (main)
+232,Hoody 400 kV (KPTCL)
+233,Trichy 230KV SS
+234,Bahour 230 – Pondy SCC
+235,Srisailam (LB)
+236,Hoody
+237,Villupuram 110
+238,Nelamangala
+239,SMNHAL
+240,Trichuru
+241,SRISAILAM RBPH
+242,Konaje 110 kV
+243,Somanahalli(E1)
+244,Arasur 400
+245,Bethan Wind Plant (GIS Tuticorin)
+246,Kurnool Ap
+247,Alagapuram Repeater
+248,TRICHUR
+249,KOALAR
+250,Ingur
+251,Nelamangala KPTCL
+252,Madurai 230
+253,Srisailam LBPH(TSTRANSCO)
+254,Main Path: Simhadri NTPC
+255,PAVAGADA 5MSP
+256,ARASUR400
+257,Bidadi PG
+258,BIDADI
+259,KOLAR
+260,Gadividi
+261,Vidyut Soudha
+262,KALAPAKA 400
+263,Suryapet 220kV SS
+264,Thirubuvanai – Villianur 230 – Pondy SCC
+265,KRL
+266,S.Palli
+267,Budidampad
+268,Madakkathara PGCIL
+269,Udumalpet (main)
+270,Fibre link
+271,Davanger
+272,Kundha
+273,Arasur 230
+274,Nelamangala 400 kV (KPTCL)
+275,MAHABUB NAGAR
+276,Direct  OFC
+277,Thingalore230
+278,Kurukkathy 230KV SS
+279,Kurnool 400 KV
+280,B Kothur
+281,LDC  Madurai
+282,Sriperumbudur
+283,Madurai
+284,Arasur
+285,Sattenapalli AP
+286,220 KVSS Chittoor
+287,Thiruvalam
+288,Repeater 346
+289,StandBy: Ramagundam NTPC
+290,Sriperambdur
+291,230 KV Checkkanoorani
+292,Pondy SCC (main)
+293,Shoolagiri400
+294,Kadapa 765kV
+295,Arasur400
+296,Bangalore SRLDC  through PGCIL link
+297,Myvadi230
+298,Kalpakkam (stdby)
+299,Kadaperi
+300,Uravakonda
+301,Karur
+302,N.Sagar (LB)
+303,Neyveli
+304,Kurnool AP(Nannur)
+305,Bethan wind Plant
+306,StandBy: Simhadri NTPC
+307,Hassan (stdby)
+308,N.Sagar PG
+309,VTPS-IV
+310,Nellore PS
+311,Poovani
+312,Pondy SCC (Protection)
+313,Kolar HVDC (stdby)
+314,Coastal (stdby)
+315,220 KV SS Gummadipundi
+316,Nirmal400KV
+317,Nelmangala
+318,1
+319,132KVSS Aswarao Peta
+320,Main Path: Kurnool 765kV
+321,Salem(PG) N/w
+322,Mamaidpalli
+323,SRLDC 2
+324,SLDC Chennai.
+325,Trichy (PGCIL)
+326,Tuticorin
+327,Triruvarur
+328,Muddanur
+329,Hosuru
+330,BidadiPGCIL
+331,RTPP 220KVSS
+332,Thiruvallum  400kvss
+333,Raichur
+334,Mahabub Nagar 400KV(Veltore)
+335,StandBy: Raichur 765kV
+336,Kurukkathy230
+337,Ingur 230KV SS
+338,Trichy(E1)
+339,Hosur (main)
+340,KV KOTA
+341,Shankarpally
+342,Sorakudy (Under reconfiguration)
+343,Veltoor 400 KV SS
+344,BAHOUR
+345,Pondy
+346,Myladuthurai
+347,Tallapally 220kvss
+348,Wanaparthy 220KVSS
+349,Nellore PS _Kadapa PG
+350,Kakinada
+351,Eripakkam – Thirubuvanai – Villianur 230 – Pondy SCC
+352,132 KV Tangeda
+353,Suryapet 400kVSS
+354,Yarnal 220 kV (G M NAVARA)
+355,KOLAR PGCIL STM16
+356,Vallur NTPC (main)
+357,NLC TS1 Exp
+358,Wanaparthy
+359,NARENDRA PG-DCPC
+360,Sriperambaduru
+361,Salem400(E1)
+362,Wardha
+363,Trichy
+364,MYVADI 230 kV SS
+365,Main Path: Maheshwaram PS
+366,"APSLDC, Vijayawada"
+367,Dharmapuri
+368,Veltore 400 Kv
+369,exp
+370,Thethampakkam – Sedharapet – Villianur 230 – Pondy SCC
+371,Tallapalli
+372,220 KV Wanaparthy
+373,SURYAPETA
+374,Checkkanoorani PG
+375,Selam
+376,Srisailam RBPH
+377,Vijayawada PG2
+378,KADALANAGUDI
+379,Thiruvallum 400kvss
+380,Balimela
+381,220 KV NAGARJUNA SAGAR
+382,T.R.Pattinam  (Under reconfiguration)
+383,Somanhalli
+384,TRICHY
+385,Valayapatty
+386,Sriperamadur
+387,TRIVENDRUM
+388,Thiruvananthapuram PGCIL
+389,Singaperumal koil 230 ss
+390,Kamavarapu Kota 400KVSS
+391,Udumalpet 230 ( Myvadi )
+392,Allipura 220 KV SS
+393,Chennai MLDC – Sriperumbudur – Trichy – Madurai 230 – Bangalore
+394,Neyvely TS II
+395,Gajwel
+396,Vallur NTPC (stdby0
+397,CHENNAI  SLDC
+398,SRLDC 1
+399,SRLDC REMC
+400,Narnoor 400KVSS
+401,APSLDC
+402,220KVSS Gooty
+403,Gobi230
+404,Antharasanahalli 220 kV
+405,Karaikudi 400
+406,PAVAGADA 3MSP
+407,Bidadi 220 kV (KPTCL)
+408,EDAMON
+409,Ghanapur PG (DCPC
+410,Kalamassery
+411,Pugalur  400 kV SS
+412,APSLDC REMC
+413,Vemagiri AP
+414,Trichy 230
+415,Sedharapet – Villianur 230 – Pondy SCC
+416,400 KVSS Asupaka
+417,Chennai/Madurai
+418,PGCIL Fibre Network
+419,KURNOOL 400 KV
+420,Salem
+421,Madanapalli 220KVSS
+422,Thrivandram
+423,Unjanai
+424,Singaperumal koil 230
+425,Pugalur  230
+426,SLDC  Chennai
+427,Karavallur 230KV
+428,Thiruvallum
+429,Thondamanatham – Pondy 400 – Villianur 230 – Pondy SCC
+430,Yerandanahalli 220 kV
+431,Vishakhapatnam VSS
+432,NANNUR
+433,Simhadri NTPC
+434,Palakkad
+435,SLDC Madurai  (BCC)
+436,Simhadri_NTPC
+437,Alampur 132KVSS
+438,Chekanurani 400
+439,Hosur 230
+440,Point to point
+441,Anathapur
+442,Nil
+443,Tuticorin PG
+444,Kurukathy
+445,Satnepalli AP
+446,Neyvelli TS2_1
+447,Vizag
+448,Alandur
+449,Hiryur
+450,VJA1
+451,Pulichinthala
+452,SMHL
+453,Cochin
+454,230KV CHITTOOR
+455,MAIN: Chennai MLDC – Sriperumbudur – Trichy – Madurai 230 – Madurai 400 – Udumalpet – Salem 230 – Salem 400
+456,Bahour 110 – Korkadu – Villanur 230 – Pondy SCC
+457,THIRUVARUR 230 kV SS
+458,Gobi 230KV SS
+459,Narendra
+460,Vinnamangalam
+461,T.R.Pattinam – Thiruvarur – Neyveli
+462,Anantapur 220KVSS
+463,Tallapali ss
+464,Salem400(PG) N/w
+465,Pulivendala 220KVSS
+466,Warangal TS
+467,ARASUR GOBIOFC (FOX515)
+468,PG Network
+469,Edamon
+470,Uravakonda 400 KV SS
+471,Chennai SLDC (Main)
+472,Gooty PGCIL
+473,Arekode PGCIL
+474,HIRUYUR 5MSP
+475,NLC TS2
+476,Arasur 400KV
+477,Marapalam – Villianur 230 – Pondy SCC
+478,Main Path: CK Palli AP
+479,Porur 230KV SS
+480,Raichur 765kv
+481,Chittor AP
+482,Kalamasserry SLDC (Protection)
+483,Narenfra
+484,SRLDC            Alternate path: Vidyut Soudha
+485,Khammam 132KVSS
+486,AP SLDC (Gunadala)
+487,Rep 346
+488,Karur (main)
+489,Bhavani
+490,Kolar
+491,Mamidipalli
+492,Salem PG
+493,Domalapenta 220KVSS
+494,Villupuram 110 SS
+495,Truchur
+496,220KVSS  Gooty Sw st
+497,230 KV Madurai
+498,Pugulur HVDC
+499,Vijayawad PG
+500,Sattenapalli
+501,Raichur RTPS
+502,Edaman
+503,Shornur
+504,400KVSS Suryapeta
+505,Kamavarapu Kota 132KVSS to Aswarao Peta
+506,Chalakurthy
+507,Madurai SLDC
+508,Ckpalli 400kvss
+509,Alipur 220 kV
+510,Pillaitheruvasal
+511,BUDIDAMPAD
+512,SRIPERUMBUDUR 400 kV SS
+513,220 KV Somayajulaplli
+514,MADURAI   LDC
+515,Khammam TS
+516,Nagarjuna sagar
+517,Kurnool AP
+518,Hassan (main)
+519,Suryapet
+520,Chillakallu
+521,2_2
+522,Alandur230
+523,Maheshwaram PS
+524,Cochin PGCIL
+525,MEYVADI 400/ 230 kV SS
+526,AP SLDC
+527,Kurnool 765kV
+528,Tirunelveli PG
+529,ARASUR230 OFC
+530,THIRUVALAM 230 kV SS
+531,Pulichintala220kVSS
+532,Hiriyuru
+533,Nellore PS_765kV
+534,MTPS
+535,Ghanapura
+536,MADURAI
+537,Kalivanthapattu PGCIL
+538,Udumalpet (stdby)
+539,Arasur 230kv
+540,VJA2
+541,Bhavini
+542,Kusumanchi
+543,Somanahalli 220 kV (KPTCL)
+544,Tumkuru
+545,Chennai(E1)
+546,220 Srisailam RBPH
+547,220KVSS Asupaka
+548,Bommur Ap
+549,Sullurpet
+550,Neyvelli
+551,Pavagada
+552,Kalamasserry SLDC (main)
+553,Edappon
+554,Uludumalpet(Myvadi)
+555,salem230
+556,CUDDALORE  230 kV SS
+557,Chennai – Kalivanthapatu
+558,Kadapa 220KV
+559,Ramagundam_NTPC
+560,Palakad
+561,NLC TS2 (main)
+562,ILFS (stdby)
+563,C.K.Palli 220KV
+564,SALEM
+565,Nagarjunasagar
+566,Bahour 230 / Pondy 400
+567,Lower Sileru
+568,Udumalpet
+569,Pallakapalayam 230KV SS
+570,DOMALAPENTA
+571,SOMANAHALLI PG-DCPC
+572,Chinakampally(APTRANSCO NW)
+573,Karamadai
+574,Echangadu
+575,SLDC CHENNAI
+576,Vemagriri PS
+577,SRIPERAMBDUR PG-DCPC
+578,GIS Tuticorin
+579,Gunadala
+580,Simhadri  NTPC
+581,StandBy: NP Kunta
+582,Chennai SLDC
+583,132 KV Alampur
+584,Sulurpet 230 (PLCC) 180/184 KH.
+585,Raichur RTPP
+586,ARASUR PGCIL
+587,Kalvinthapattu
+588,TRICHUR PG
+589,Nunna SLDC
+590,Srisaialm LB
+591,Kolar 220 kV (KPTCL)
+592,StandBy: Srikakulam PS
+593,Thrichy
+594,Sriperambadur
+595,Gooty
+596,Coastal (main)
+597,OKM
+598,Mysore PG (stdby)
+599,Pallakapalayam230
+600,Mosur 230 KV SS  through PLCC link ( 296/316 KHZ)
+601,MAHABUB NAGAR 400 KV
+602,Ananthapura
+603,Sempatty
+604,SURYAPET 400 KV
+605,Villupuram 230 SS.
+606,Gummadipundi
+607,Arasur  400KV
+608,KTPS V
+609,Gazuwaka PG (DCPC)
+610,NLC TS1Exp
+611,Hiriyur (stdby)
+612,Trichy230
+613,Kanhirode
+614,S'Perumbudur
+615,SRLDC (DCPC Installed in SRLDC only)
+616,Maniyachi(Mythra)
+617,TS
+618,400KV Narnoor
+619,Devangiri
+620,A P Carbides 220KVSS
+621,Pothenkode
+622,CHECKANURANI 400 kV SS
+623,Somanahalli PG
+624,Pondy PG
+625,Chennai – Sriperumpudur
+626,Srisailam LBPH
+627,LOWER SILERU 220 KV
+628,Trichy PG
+629,Tallapally
+630,Karaikal
+631,NLY TS I
+632,NAGARJUNASAGAR PG
+633,TS1exp
+634,Chittoor400kvss
+635,Tumkur
+636,StandBy: Nellore PS
+637,Trivendrum
+638,KPTCL REMC
+639,Nizambad PS
+640,KARUVALUR 230 kV SS
+641,Kudgi
+642,Kalamasserry
+643,Marapalam
+644,ARASUR
+645,Nagapattanam
+646,Thiruvalam (stdby)
+647,Kadaperi 230KV SS
+648,Hosur
+649,Vijayawada
+650,SOMNA
+651,Kusumanchi 132KVSS
+652,TALLAPALLI
+653,Madurai 230KV SS
+654,NLMGL
+655,Tumkur (main)
+656,Tuticorin GIS
+657,Karaikudi PG
+658,URAVAKONDA
+659,400KVSS C.K.Palli
+660,COCHIN PG
+661,Chillakallu 220kV SS
+662,Orkkattery
+663,Kalamasserry SLDC
+664,KARAIKUDI
+665,Arekdoe
+666,KTPS
+667,Mahubabnagar
+668,Vijayawada AP
+669,Maheswaram
+670,SLDC  Madurai.
+671,Talapalli
+672,220 KV Seethapuram
+673,Madhurai
+674,Kaiga (stdby)
+675,NLC TS2 Exp (main)
+676,Wadapally
+677,Thiruvallem
+678,Gooty Ap
+679,Domalapenta
+680,PONDY PG
+681,Shoolagiri
+682,Raichur PG
+683,TK2 SPS Link
+684,S'perumbudur 400 SS
+685,Ramapuram 132KV SS
+686,Bahour 230
+687,Mysuru
+688,BPS 400 kV (KPTCL)
+689,Kalapet
+690,Machkund Power House
+691,220 Nagarjuna sagar
+692,NLC TS1
+693,Thiruvanantha puram PGCIL
+694,SRLDC
+695,RTPS 400 kV
+696,Srisailam left bank
+697,(PGCIL NW)
+698,NUNNA
+699,Ghanapur PG
+700,Ananthapura Gooty
+701,132 KV SS Vontimitta
+702,SATTENAPALLI
+703,Karamadai 400 kV SS
+704,SRLDC-DCPC
+705,NNTPS (stdby)
+706,Nlc TS2 Exp
+707,MYLADUTHURAI 230 kV SS
+708,Kudgi PG
+709,Yelahanka 220 kV (KPTCL)
+710,132 KV Kodada
+711,TUMUKUR
+712,Srikakulem PS
+713,Sriisailam LBPH
+714,Shapur Nagar
+715,Gooty AP
+716,Chittor
+717,Mosur 230 KV SS
+718,Repeater
+719,Pavudaga
+720,MCC
+721,StandBy: Vemagiri PS
+722,Madhira
+723,Khammam PG
+724,132KVSS Kamavarapu Kota
+725,SALEM 400
+726,Tumkur (stdby
+727,LDC  MADURAI
+728,Mahabubnagar400 KV(TSTRANSCO)
+729,THUDIYALUR 230 kVSS
+730,KURUKATHI 230
+731,A P Carbides
+732,NAGAPATTANAM
+733,Arasur 230Kv
+734,Myvadi
+735,Madurai LDC
+736,KAYATHAR 230 kV SS
+737,Viajaywada PG
+738,Hirayur PGCIL
+739,Karavallur 230Kv
+740,Angul
+741,"Kolar PGCIL, Karnataka"
+742,Erode LDC
+743,Hosur230
+744,Hiriyur (main)
+745,Kurumbapet – Villianur 230 – Pondy SCC
+746,T.R.Pattinam
+747,Main Path: Nizambad PS
+748,Karaikudi
+749,Karamadai400
+750,Upper sileru Power House
+751,RTPP 220KV
+752,Somanahalli PGCIL
+753,Gurubarapally
+754,NGMNGL
+755,Anthiyur230
+756,Palavadi 400 kV SS
+757,Yelahanka (stdby)
+758,NLMNGL
+759,Madakkathara
+760,NLC Ts2
+761,Munirabad
+762,Sattenapally 400kvss
+763,Pavagada PG
+764,Cuddalore 230 SS
+765,Kethireddypally
+766,Sriperumbdur
+767,Chalakudy
+768,Viajayawad PG
+769,Viajayawad AP
+770,NP Kunta 400kV_Solar
+771,400 KVSS Khammam
+772,Sitapuram 132KV SS
+773,IDUKKI ( KSEB)
+774,TSSLDC
+775,Pillaitheruvasal – T.R.Pattinam
+776,NUNNA REMC
+777,220 KV Pulichinthala
+778,Poovani(Orange)
+779,Ramadugu
+780,S'Perumbudur 400
+781,Karamadi 230KV
+782,Somayajulapally
+783,Bahour 110  (Under reconfiguration)
+784,Arasur 400Kv
+785,VTPS IV
+786,Kalamassey & Arekode
+787,Maniyachi
+788,KTPS Vr
+789,Vizag PG
+790,400 KV NARNOOR
+791,220KVSS Anantapur
+792,Kozhikode PGCIL
+793,TIRUPUR
+794,Kozhikode
+795,Sulurpet 230 KV SS ( AP)
+796,Tangeda
+797,KV Kota
+798,220 KV SS Sullurpet
+799,SALEM PG
+800,SLDC & backup LD
+801,NR
+802,Bidadi (stdby
+803,Chandragiri
+804,Arasur  230KV
+805,Narnoor
+806,Nunna AP
+807,Nellore PG
+808,Chintamani 220 kV (KPTCL)
+809,Pugalur 400
+810,NELAMANGALA
+811,Arekode
+812,Vijayawada PG
+813,ARASUR TDLR OFC
+814,StandBy: Kadappa PG
+815,Mettur TPS
+816,Sattenapally
+817,NLC TS2 Exp (stdby)
+818,Alternate path: Vidyut Soudha
+819,Khammam
+820,RAICHUR
+821,Hiriyur
+822,220KV SS Pulivendula
+823,Sitapuram
+824,Main Path: Vemagiri PS
+825,Kurumbapet
+826,Warangal PG
+827,TS2_1
+828,Chittoor 400kvss
+829,132 KV Wadapally
+830,STPL
+831,Main Path: Kadappa PG
+832,Guttur 400 kV (KPTCL)
+833,Thiruvananthapuram
+834,Pavada
+835,C'PETA
+836,UDUMALPET 230 kV SS
+837,RAICHUR STM16
+838,Thiruvarur 230KV SS
+839,Villianur 230 – Pondy SCC
+840,Salem400(TNEB)
+841,Malkaram
+842,Main path: Vidyut Soudha
+843,Trichur
+844,ARASUR230
+845,Kalvinthapattu PG
+846,Madurai400
+847,Mamidipalli TS
+848,BCC Madurai
+849,Muddunuru RTPP
+850,PALAKAD
+851,StandBy: Maheshwaram PS
+852,NLC TS1 Exp (stdby)
+853,Alagapuram repeater
+854,Ramagundam_NTPC_Solar
+855,AP Carbide
+856,Kudankulam
+857,Kadapa PG
+858,Lower sileru Power House
+859,Veltoor 400 kv  SS
+860,Nagapattanam (stdby)
+861,Regumanugadda
+862,Singaperumal Koil
+863,Chittore
+864,Anthiyur 230KV SS
+865,Tallapalli AP
+866,Nagarjun sagar PG
+867,GPD 230
+868,Udumalpet PG
+869,NP Kunta 400kV & STATCOM
+870,Nellamangangala
+871,PALLADAM 230
+872,Gooty Sw.St 220KV
+873,Bahour 230 /Pondy 400
+874,SMNHL 1
+875,NEELAMANGALA 2
+876,Kuurnool765
+877,SRISAILAM LBPH
+878,Salem400
+879,Gooty PG
+880,Kolar PGCIL
+881,N.Sagar(LB)
+882,TIRUNELVELI
+883,Mahabubnagar TS
+884,Ramapuram
+885,Nellore
+886,Yerraguntla 220KVSS
+887,220 KV AP Carbide
+888,RAMAGUNDAM
+889,Munirabad PG
+890,Neyveli TS1
+891,Main Path: Srikakulam PS
+892,TDLR
+893,Chennai MLDC – Sriperumbudur – Trichy – Erode – Salem 230 – Salem 400
+894,220 KV Chillakallu
+895,Chittoor 400KV
+896,StandBy: Kurnool 765kV
+897,400KVSS Kamavarapu Kota
+898,Bommur AP
+899,Kolar HVDC (main)
+900,400 KV GAJWEL
+901,Srisailam LB
+902,Kolar HVAC (main)
+903,Tiruvananthapuram
+904,KARAIKUDI 230 kV SS
+905,220KVSS Madanapalli
+906,Aswaraopet
+907,RCPH
+908,UDUMALPET
+909,220KV SS Yerraguntla
+910,ARASUR400 OFC
+911,ARSUR400
+912,Chittoor 220kvss
+913,Arasur230
+914,WR
+915,Mehaboobnagar
+916,SLDC Chennai
+917,salem 230
+918,Vallur
+919,Villupuram 230 SS
+920,220KVSS Kalikiri
+921,Somanahalli
+922,CK Palli AP
+923,DHARMAPURI
+924,Tallapali AP
+925,Main Path: Raichur 765kv
+926,Karur (stdby)
+927,Korkadu – Villanur 230 – Pondy SCC
+928,Alamatty
+929,Pondy SCC
+930,Kadra G S
+931,230 KV Sriperumpudur
+932,SSLM LBPH
+933,SLDC
+934,salem400
+935,Thudiyalur 230kv
+936,Bharampuram
+937,Ingur 230 kV SS
+938,KPTCL
+939,Nunna
+940,Maheshwaram TS
+941,Salem(PG)N/w.
+942,SLCD Chennai
+943,NLC_TS_2
+944,Villianur 230
+945,GOOTY 220KV
+946,TDLR ARASUR
+947,Palavadi
+948,Bengaluru
+949,Ananthpur
+950,Chekanoorani
+951,Salem 400
+952,Arasur 230KV SS
+953,Kurnool400 KV
+954,Eripakkam
+955,Jagityal
+956,GOOTY PG
+957,NR DELHI
+958,HIRUYUR 5 MSP
+959,Shrisylam
+960,DAVANGERE/GUTUR 2
+961,Sriperumbadur
+962,Tallapally(AP)
+963,Salem(PG)N/w
+964,Dharmapuri (main)
+965,Pugalur Link via Alagapuram
+966,Nannur AP
+967,Tangeda 132kvss
+968,SLDC Madurai
+969,Viajayawada PG
+970,Kalvintapattu
+971,2
+972,TRICHY 230 kV SS
+973,Ulumalpet 230
+974,Protection: Chennai MLDC – Sriperumbudur – Trichy – Erode – Salem 230 – Salem 400
+975,Main Path : Nellore PS
+976,SEMPATTY 230
+977,Neyvelli TS2
+978,Mahe
+979,Salem 230 – Salem 400
+980,VTPS
+981,Nannur
+982,Kakainada AP
+983,Neyveli TS2
+984,Regumanugadda 220KVSS
+985,SMHNL
+986,Guriparapalli230
+987,Trivendrum PG
+988,220 KV TANDUR
+989,Anantapur220KVSS
+990,MADURAI  230 kV SS
+991,Kundankulam
+992,Viajayawad PG1
+993,Ramagundam NTPC
+994,Udumalpet 230
+995,2exp
+996,Somayajulapalli
+997,Karavallur 230kv
+998,Vemagiri PS
+999,Kurnul
+1000,Karaikudi 230
+1001,NLC TS2 (stdby)
+1002,SALEM  400 kV SS
+1003,GOBI
+1004,Thiruvarur
+1005,Ramagundamm
+1006,Neyvely 230
+1007,Pavagada (main)
+1008,Somayajulapali AP
+1009,NARENDRA PG
+1010,THVLM
+1011,Chennai
+1012,Myladuthurai 230
+1013,VemagIri Ap
+1014,Muddanuru
+1015,ERODE 230 kV SS
+1016,Erode
+1017,Vyduthibhavanam
+1018,Arasur 400 kV SS
+1019,CHILLAKALLU
+1020,Bidadi
+1021,KOLAR PG
+1022,Srikakulam Repeater
+1023,Nirmal 220KV
+1024,132 KV Piduguralla
+1025,OLTE
+1026,Madurai PG
+1027,Srisaialm
+1028,Kodada
+1029,Neyvelli  TS
+1030,Vijayawada PG (DCPC)
+1031,Hassan PG
+1032,220 KV Switchyard Srisailam right bank
+1033,Dindi 400 KV
+1034,Vontimitta 132KVSS
+1035,Kadakola 220 kV
+1036,NEYVELI 230 kV SS
+1037,PONDY SCC
+1038,Madurai 400
+1039,SLDC Chennai (ISP)
+1040,220 KV CHALAKURTHY
+1041,Nizambad GIS
+1042,HOSUR
+1043,KOLAR  PGCIL
+1044,Nelemangala
+1045,Vengata Nagar
+1046,Dharmapuri PG
+1047,Pallom
+1048,Thiruvalam PG
+1049,IDUKKI
+1050,Vijayawada AP(nunna)
+1051,Villupuram
+1052,Anathapur AP
+1053,Arasur PG
+1054,Ragulapadu 220 KV SS
+1055,Sub-LDC/Erode
+1056,Kalivanthapattu
+1057,VILLANUR
+1058,KOLAR OFC
+1059,Pugalur 230KV SS
+1060,Alamaty
+1061,DINDI400 KV
+1062,Davangere
+1063,Pugalur230
+1064,Madras  400kvss
+1065,132 KV Kota
+1066,Kadapa400
+1067,YELAHANKA PG
+1068,400KVSS Chittoor
+1069,Trichur KSEB
+1070,Trichy 400
+1071,Vallur NTPC
+1072,Pavagada PGCIL
+1073,Nagapattanam (main)
+1074,Ambewadi 220 kV
+1075,VemagIri PS
+1076,Local
+1077,Sedam
+1078,Kodasalli G S
+1079,Tandur
+1080,KARAIKUDI 230 KV SS
+1081,MahabubNagar
+1082,Ghanapur TS

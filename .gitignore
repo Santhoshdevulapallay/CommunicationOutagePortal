@@ -1,0 +1,38 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+communicationoutagefrontend/node_modules
+communicationoutagefrontend/.pnp
+communicationoutagefrontend/.pnp.js
+
+# testing
+communicationoutagefrontend/coverage
+
+# production
+communicationoutagefrontend/build
+
+# misc
+communicationoutagefrontend/.DS_Store
+communicationoutagefrontend/.env.local
+communicationoutagefrontend/.env.development.local
+communicationoutagefrontend/.env.test.local
+communicationoutagefrontend/.env.production.local
+
+communicationoutagefrontend/npm-debug.log*
+communicationoutagefrontend/yarn-debug.log*
+communicationoutagefrontend/yarn-error.log*
+
+Communication_Project_Backend/node_modules
+Communication_Project_Backend/logfile.log
+Communication_Project_Backend/uncaughtExceptions.log
+Communication_Project_Backend/config/customconfig.js
+Communication_Project_Backend/config/insetInitialDb.js
+Communication_Project_Backend/config/resetPasswords.js
+Communication_Project_Backend/utils/excelProcessing/Scripts
+Communication_Project_Backend/utils/excelProcessing/Lib
+Communication_Project_Backend/utils/excelProcessing/Include
+Communication_Project_Backend/utils/excelProcessing/__pycache__
+Communication_Project_Backend/utils/excelProcessing/EXCEL_FILES
+Communication_Project_Backend/.env
+__pycache__/
+
